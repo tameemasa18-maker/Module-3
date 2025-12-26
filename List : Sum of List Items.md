@@ -21,3 +21,4 @@ print("Sum of the list:", total)
 Sum of the list: 150
 ~~~
 ## Result
+thus the program is verified
