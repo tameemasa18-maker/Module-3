@@ -30,7 +30,7 @@ def remove(s):
 string = input("Enter a string: ")
 
 print(remove(string))
-
+~~~
 ## Output
 ~~~
     Enter a string: python
